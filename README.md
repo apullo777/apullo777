@@ -1,11 +1,11 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif">
+  <img src="https://media.giphy.com/media/l41lMWt68HTJtPhRe/giphy.gif" width="550">
 </div>
 
 
 <div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=apullo777&style=flat-square&color=blue" alt="profile-views"/>
+  <img src="https://komarev.com/ghpvc/?username=apullo777&style=flat-square&color=blue" alt="profile-views" />
 </div>
 
 
