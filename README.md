@@ -9,12 +9,15 @@
 </div>
 
 
-<h2>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h2>
 
----
+## Welcome to my GitHub profile!
+
+My name is apullo777, and I am a self-taught hobbyist programmer with an interest in web development. I have been learning to code on my own and have developed a passion for creating web applications.
+
+On this page, you will find a list of the repositories I have created. These repositories contain the projects I have worked on to practice and improve my web development skills. They cover a variety of topics, from simple calculators to more complex admin dashboards.I hope you find them useful and interesting. In addition to studying from textbooks, I am also actively practicing my problem-solving skills using platforms such as Advent of Code and LeetCode. To track my progress and share my solutions with others, I have created repositories where I upload my code solutions for the problems I solve.
+
+I am always open to feedback and suggestions, so please feel free to reach out to me if you have any ideas for improving my projects or have any questions. Thank you for visiting my profile!
+
 
 
 ## :hammer_and_wrench:  Languages & Tools :
