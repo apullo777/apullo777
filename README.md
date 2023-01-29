@@ -12,11 +12,13 @@
 
 ## Welcome to my GitHub profile!
 
-My name is apullo777, and I am a self-taught hobbyist programmer with an interest in web development. I have been learning to code on my own and have developed a passion for creating web applications.
+My name is Apullo777 and I am a self-taught web developer with a passion for creating web applications. I have honed my skills through independent learning and hands-on practice.
 
-On this page, you will find a list of the repositories I have created. These repositories contain the projects I have worked on to practice and improve my web development skills. They cover a variety of topics, from simple calculators to more complex admin dashboards.I hope you find them useful and interesting. In addition to studying from textbooks, I am also actively practicing my problem-solving skills using platforms such as Advent of Code and LeetCode. To track my progress and share my solutions with others, I have created repositories where I upload my code solutions for the problems I solve.
+On this page, you will find a curated list of my programming projects. These repositories contain the projects I have worked on to practice and improve my web development skills. They cover a variety of topics, from simple calculators to more complex admin dashboards.I hope you find them useful and interesting. 
 
-I am always open to feedback and suggestions, so please feel free to reach out to me if you have any ideas for improving my projects or have any questions. Thank you for visiting my profile!
+In addition to traditional learning methods, I also engage in continual learning through problem-solving platforms such as Advent of Code and LeetCode. I have created repositories to document and share my solutions for these problems as a way to track my progress and share my solutions with others in the programming community.
+
+I am open to constructive feedback and welcome suggestions for improvement. Please feel free to reach out to me with any questions or thoughts you may have. Thank you for visiting my profile!
 
 
 
