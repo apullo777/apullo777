@@ -1,25 +1,44 @@
 
+
+```python
+
+class Attributes(apullo777):
+	@staticmethod
+	def contact() -> tuple:
+	    discord  = "apullo#7771"
+	    telegram = "t.me/apullo777"
+	    skiff    = "apullo.eth@skiff.com"
+	    
+	    return discord, telegram, skiff
+	
+	@staticmethod
+	def life() -> tuple:
+		langs         = ['Chinese', 'English']
+		nationalities = self.langs.remove('Chinese', 'English').append('USA')
+		
+		return langs, nationalities
+	
+	@staticmethod
+	def coding() -> tuple:
+		langs = {
+			'intermediate': ['python', 'js'],
+			'learning': ['c', 'c++', 'solidity']
+		}
+		specialities  = ['web development', 'frontend']
+		environnement = ['vscode']
+		
+		return langs, specialities, environnement
+```
+
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l41lMWt68HTJtPhRe/giphy.gif" width="550">
 </div>
 
-
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=apullo777&style=flat-square&color=blue" alt="profile-views" />
 </div>
-
-
-
-## Welcome to my GitHub profile!
-
-My name is Apullo777 and I am a self-taught web developer with a passion for creating web applications. I have honed my skills through independent learning and hands-on practice.
-
-On this page, you will find a curated list of my programming projects. These repositories contain the projects I have worked on to practice and improve my web development skills. They cover a variety of topics, from simple calculators to more complex admin dashboards.I hope you find them useful and interesting. 
-
-In addition to traditional learning methods, I also engage in continual learning through problem-solving platforms such as Advent of Code and LeetCode. I have created repositories to document and share my solutions for these problems as a way to track my progress and share my solutions with others in the programming community.
-
-I am open to constructive feedback and welcome suggestions for improvement. Please feel free to reach out to me with any questions or thoughts you may have. Thank you for visiting my profile!
-
 
 
 ## :hammer_and_wrench:  Languages & Tools :
