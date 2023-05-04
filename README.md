@@ -31,11 +31,6 @@ class Attributes(apullo777):
 ```
 
 
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l41lMWt68HTJtPhRe/giphy.gif" width="550">
-</div>
-
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=apullo777&style=flat-square&color=blue" alt="profile-views" />
 </div>
