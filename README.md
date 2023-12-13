@@ -22,7 +22,7 @@ class Attributes(apullo777):
 	def coding() -> tuple:
 		langs = {
 			'intermediate': ['python', 'js'],
-			'learning': ['c', 'c++', 'solidity']
+			'learning': ['c', 'java', 'solidity']
 		}
 		specialities  = ['web development', 'frontend']
 		environnement = ['vscode']
