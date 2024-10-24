@@ -7,24 +7,20 @@ class Attributes(apullo777):
 	def contact() -> tuple:
 	    discord  = "apullo#7771"
 	    telegram = "t.me/apullo777"
-	    skiff    = "apullo.eth@skiff.com"
 	    
-	    return discord, telegram, skiff
+	    return discord, telegram
 	
 	@staticmethod
 	def life() -> tuple:
-		langs         = ['Chinese', 'English']
+		langs         = ['English', 'Chinese']
 		nationalities = self.langs.remove('Chinese', 'English').append('USA')
 		
 		return langs, nationalities
 	
 	@staticmethod
 	def coding() -> tuple:
-		langs = {
-			'intermediate': ['python', 'js'],
-			'learning': ['c', 'java', 'solidity']
-		}
-		specialities  = ['web development', 'frontend']
+		langs = ['c', 'c++', 'python', 'java', 'js']
+		specialities  = ['backend', 'system programming']
 		environnement = ['vscode']
 		
 		return langs, specialities, environnement
