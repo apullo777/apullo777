@@ -19,11 +19,11 @@ class Attributes(apullo777):
 	
 	@staticmethod
 	def coding() -> tuple:
-		langs = ['c', 'c++', 'python', 'java', 'js']
-		specialities  = ['backend', 'system programming']
-		environnement = ['vscode']
-		
-		return langs, specialities, environnement
+    		langs = ['c/c++', 'java', 'python', 'sql (Postgres)', 'js', 'go']
+    		frameworks = ['react', 'node.js', 'spring boot', 'hibernate']
+    		libraries = ['pandas', 'numpy']
+    
+    		return langs, frameworks, libraries
 ```
 
 
