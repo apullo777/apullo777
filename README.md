@@ -11,15 +11,8 @@ class Attributes(apullo777):
 	    return discord, telegram
 	
 	@staticmethod
-	def life() -> tuple:
-		langs         = ['English', 'Chinese']
-		nationalities = self.langs.remove('Chinese', 'English').append('USA')
-		
-		return langs, nationalities
-	
-	@staticmethod
 	def coding() -> tuple:
-    		langs = ['c/c++', 'java', 'python', 'sql (Postgres)', 'js', 'go']
+    		langs = ['c/c++', 'java', 'python', 'js', 'go']
     		frameworks = ['react', 'node.js', 'spring boot', 'hibernate']
     		libraries = ['pandas', 'numpy']
     
