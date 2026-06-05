@@ -13,8 +13,8 @@ Currently, I am learning and focusing on:
 
 ## Kubernetes / CNCF contribution journey
 
-- **2025: etcd / control-plane systems**  
-  Contributed to etcd through Google Summer of Code, focusing on high-performance caching and control-plane data paths.
+- **2025 — etcd / distributed systems**  
+  Contributed to etcd through Google Summer of Code, focusing on high-performance caching for Kubernetes’ backing store.
 
 - **2026: Kubernetes SIG Docs and localization**  
   Working on zh-TW localization, documentation quality, and tooling for detecting outdated localized content.
