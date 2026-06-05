@@ -1,43 +1,30 @@
+# Hi, I'm Peter Chang 👋
+
+I'm a Kubernetes contributor interested in control-plane systems, documentation tooling, and workload scheduling.
+
+I am currently pursuing an MS in Computer Science at Georgia Tech, with a focus on computing systems.
+
+Currently, I am learning and focusing on:
+
+- Kubernetes SIG Docs zh-TW localization
+- Documentation automation and localization drift detection
+- Kueue, JobSet, WG-Batch, and workload-aware scheduling
 
 
-```python
+## Kubernetes / CNCF contribution journey
 
-class Attributes(apullo777):
-	@staticmethod
-	def contact() -> tuple:
-	    discord  = "apullo#7771"
-	    telegram = "t.me/apullo777"
-	    
-	    return discord, telegram
-	
-	@staticmethod
-	def coding() -> tuple:
-    		langs = ['c/c++', 'java', 'python', 'js', 'go']
-    		frameworks = ['react', 'node.js', 'spring boot', 'hibernate']
-    		libraries = ['pandas', 'numpy']
-    
-    		return langs, frameworks, libraries
-```
+- **2025: etcd / control-plane systems**  
+  Contributed to etcd through Google Summer of Code, focusing on high-performance caching and control-plane data paths.
 
+- **2026: Kubernetes SIG Docs and localization**  
+  Working on zh-TW localization, documentation quality, and tooling for detecting outdated localized content.
 
----
-## 📈:  Stats 
+## Selected projects
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=apullo777&theme=dark&background=000000)](https://git.io/streak-stats)
+- [`GSoC2025`](https://github.com/apullo777/GSoC2025): Final report for my GSoC work on a high-performance caching library for etcd under CNCF.
+- [`k8s-website-l10n-tool`](https://github.com/apullo777/k8s-website-l10n-tool): Prototype tooling for detecting localization drift in the Kubernetes website.
 
+## Community
 
-
-<!--
-**apullo777/apullo777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Kubernetes Slack: `@pchang`
+- GitHub: `@apullo777`
