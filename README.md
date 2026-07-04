@@ -26,8 +26,8 @@ Built a generic high-performance caching library for etcd under CNCF, learning f
 Worked on zh-TW localization, documentation quality, and tooling for detecting localization drift in the Kubernetes website.
 
 - [`Human-Centered Automation in Kubernetes Localization in the AI Era`](https://www.kubernetes.dev/blog/2026/06/26/human-centered-automation-kubernetes-localization-ai-era/): Kubernetes blog post from the SIG Docs localization mentorship.
-- [`kubernetes/website contributions`](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Aapullo777)
 - [`k8s-website-l10n-tool`](https://github.com/apullo777/k8s-website-l10n-tool): Prototype tooling for detecting localization drift in the Kubernetes website.
+- [`kubernetes/website contributions`](https://github.com/kubernetes/website/pulls?q=is%3Apr+author%3Aapullo777)
 
 ### 2026: Kueue
 
